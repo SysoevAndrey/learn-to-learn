@@ -1,4 +1,4 @@
-This os my first project in **Yandex.Practicum** course.  
+This is my first project in **Yandex.Practicum** course.  
 Main principles of educations are presented on the page.
 
 Technologies: *HTML*, *CSS*.
